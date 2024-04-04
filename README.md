@@ -1,4 +1,4 @@
-# TikTok Project V: Machine Learning**
+# **TikTok Project V: Machine Learning**
 
 ## Overview
 
